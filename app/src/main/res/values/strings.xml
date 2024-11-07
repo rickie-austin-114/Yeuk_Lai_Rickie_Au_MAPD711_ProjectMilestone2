@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Yeuk_Lai_Rickie_Au_MAPD711_Project-Milestone2</string>
+    <string name="intro">Welcome!\nCenPhone is a phone ordering app</string>
+    <string name="confirmation">Confirm Page</string>
+    <string name="thankYou">Your phone order successfully completed</string>
+</resources>
